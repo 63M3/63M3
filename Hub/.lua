@@ -15,25 +15,6 @@
  66:::::::::::::66 3::::::33333::::::3M::::::M               M::::::M3::::::33333::::::3
    66:::::::::66   3:::::::::::::::33 M::::::M               M::::::M3:::::::::::::::33 
      666666666      333333333333333   MMMMMMMM               MMMMMMMM 333333333333333   
-
-                                        bbbbbbbb            
-HHHHHHHHH     HHHHHHHHH                 b::::::b            
-H:::::::H     H:::::::H                 b::::::b            
-H:::::::H     H:::::::H                 b::::::b            
-HH::::::H     H::::::HH                  b:::::b            
-  H:::::H     H:::::H  uuuuuu    uuuuuu  b:::::bbbbbbbbb    
-  H:::::H     H:::::H  u::::u    u::::u  b::::::::::::::bb  
-  H::::::HHHHH::::::H  u::::u    u::::u  b::::::::::::::::b 
-  H:::::::::::::::::H  u::::u    u::::u  b:::::bbbbb:::::::b
-  H:::::::::::::::::H  u::::u    u::::u  b:::::b    b::::::b
-  H::::::HHHHH::::::H  u::::u    u::::u  b:::::b     b:::::b
-  H:::::H     H:::::H  u::::u    u::::u  b:::::b     b:::::b
-  H:::::H     H:::::H  u:::::uuuu:::::u  b:::::b     b:::::b
-HH::::::H     H::::::HHu:::::::::::::::uub:::::bbbbbb::::::b
-H:::::::H     H:::::::H u:::::::::::::::ub::::::::::::::::b 
-H:::::::H     H:::::::H  uu::::::::uu:::ub:::::::::::::::b  
-HHHHHHHHH     HHHHHHHHH    uuuuuuuu  uuuubbbbbbbbbbbbbbbb   
-
 ]]--
 local place = game.PlaceId
 spawn(function()
